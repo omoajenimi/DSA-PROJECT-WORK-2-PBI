@@ -11,7 +11,6 @@ This project explores gender equality and HR-related issues in the Palmoria Grou
 4. Are all employees earning above the regulatory $90,000 minimum?
 5. What is the bonus distribution across departments and performance ratings?
 
----
 
 ##  Tools Used
 - Power BI (Data cleaning, DAX, visuals, dashboard)
