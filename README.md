@@ -22,3 +22,9 @@ This project explores gender equality and HR-related issues in the Palmoria Grou
 - `Palmoria Group Bonus Rules.xlsx`: Bonus logic table
 - `Palmoria_HR_Analysis.pbix`: Power BI file with complete visuals
 - Screenshots of dashboard
+
+## Insights Summary
+- Gender imbalance was observed in Sales and Engineering departments.
+- A gender pay gap exists in Lagos and Abuja regions.
+- Several employees earn below $90,000, breaching compliance.
+- Bonuses vary significantly by department and performance.
